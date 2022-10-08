@@ -290,7 +290,7 @@
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-servlets</artifactId>
-        <version>10.0.2-SNAPSHOT</version>
+        <version>10.0.3</version>
       </dependency>
       <dependency>
         <groupId>org.eclipse.jetty</groupId>
